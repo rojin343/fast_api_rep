@@ -1,0 +1,23 @@
+aniso8601 @ file:///tmp/build/80754af9/aniso8601_1614708839015/work
+annotated-types==0.6.0
+anyio==4.2.0
+click @ file:///private/var/folders/c_/qfmhj66j0tn016nkx_th4hxm0000gp/T/abs_f27dk3zwrb/croot/click_1698129816363/work
+fastapi==0.108.0
+Flask @ file:///Users/ec2-user/ci_py311/flask_1678380788105/work
+Flask-RESTful @ file:///Users/ec2-user/ci_py311/flask-restful_1678411856411/work
+h11==0.14.0
+idna==3.6
+itsdangerous @ file:///tmp/build/80754af9/itsdangerous_1621432558163/work
+Jinja2 @ file:///Users/ec2-user/ci_py311/jinja2_1678317138271/work
+MarkupSafe @ file:///Users/ec2-user/ci_py311/markupsafe_1678316973889/work
+pika==1.3.2
+pydantic==2.5.3
+pydantic_core==2.14.6
+python-dateutil @ file:///tmp/build/80754af9/python-dateutil_1626374649649/work
+pytz @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_e0y2h1cdsw/croot/pytz_1695131602326/work
+six @ file:///tmp/build/80754af9/six_1644875935023/work
+sniffio==1.3.0
+starlette==0.32.0.post1
+typing_extensions==4.9.0
+uvicorn==0.25.0
+Werkzeug @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_fegt3z60s3/croot/werkzeug_1679489762631/work
